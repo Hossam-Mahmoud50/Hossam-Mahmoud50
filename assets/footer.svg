@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70">
+  <defs>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="34" width="1200" height="1.5" fill="url(#accent2)" opacity="0.5"/>
+  <text x="600" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#6e7681">Open to senior .NET and full-stack roles · Let's build something solid</text>
+</svg>
